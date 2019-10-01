@@ -43,5 +43,5 @@
 * [💯hytale游戏资源汇总💯](https://github.com/hytaleme/awesome-hytale)
 
 ## 其他资源
-* [hygames.co](https://www.hygames.co/) - 模块，盒子？
-* [hytalehub.com](https://hytalehub.com/) - 论坛，俱乐部？
+* [hygames.co（英文）](https://www.hygames.co/) - 模块，盒子？
+* [hytalehub.com（英文）](https://hytalehub.com/) - 论坛，俱乐部？
