@@ -1,6 +1,7 @@
 # 💯hytale游戏资源汇总💯
 ## 官方
 * [hytale.com](https://hytale.com/)  - 官网
+* [Hypixel Studios网站](https://hypixelstudios.com/) - 官方团队网站
 * [Hytale - YouTube](https://www.youtube.com/Hytale)
 * [Hytale - Twitter](https://twitter.com/Hytale)
 * [Hytale - Instagram](https://www.instagram.com/HytaleGame/)
