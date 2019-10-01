@@ -12,7 +12,7 @@
 * [中文Hytale Wiki](https://hytale-zh.gamepedia.com/Hytale_Wiki)
 
 ## 贴吧
-* [hytale吧](https://tieba.baidu.com/hytale)
+* [百度hytale吧](https://tieba.baidu.com/hytale)
 
 ## 论坛bbs
 * [hytalebbs.com](https://hytalebbs.com)
