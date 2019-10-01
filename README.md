@@ -39,6 +39,7 @@
 * [Java-based client implementation of the Hytale Web API](https://github.com/HytaleMarket/hytale-web-api-client-java) - hytale官网api
 * [Hytale API - frontend](https://github.com/sdieunidou/hytale-api) - hytale官网api
 * [A server management software for Hytale](https://github.com/NurMarvin/Hycloud) - 服务器管理软件
+* [💯hytale游戏资源汇总💯](https://github.com/hytaleme/awesome-hytale)
 
 ## 其他资源
 * [hygames.co](https://www.hygames.co/) - 模块，盒子？
