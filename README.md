@@ -46,3 +46,5 @@
 * [Hytale Wiki（英文）](https://hytale.fandom.com/wiki/Hytale_Wiki) - 另一个英文wiki
 * [hygames.co（英文）](https://www.hygames.co/) - 模块，盒子？
 * [hytalehub.com（英文）](https://hytalehub.com/) - 论坛，俱乐部？
+* hytale QQ交流群：
+  * 585347205
