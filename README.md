@@ -22,10 +22,10 @@
 
 ## 专区
 * [mcbbs里的hytale专区](https://www.mcbbs.net/forum-hytale-1.html)
-* [九游里的hytale专区](http://www.9game.cn/hytale/)
 * [游民星空里的hytale专区](https://www.gamersky.com/z/hytale/)
-* [游迅网里的hytale专区](http://www.yxdown.com/zt/Hytale/)
+* [九游里的hytale专区](http://www.9game.cn/hytale/)
 * [游侠网里的hytale专区](https://www.ali213.net/zt/hytale/)
+* [游迅网里的hytale专区](http://www.yxdown.com/zt/Hytale/)
 
 ## 服务器列表
 * [hytale-servers.com（英文）](https://hytale-servers.com/)
