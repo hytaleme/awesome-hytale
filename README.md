@@ -1,5 +1,5 @@
 # 💯hytale游戏资源汇总💯
-## 官方
+## 官方:star2:
 * [hytale.com](https://hytale.com/)  - 官网
 * [Hypixel Studios网站](https://hypixelstudios.com/) - 官方团队网站
 * [Hytale - YouTube](https://www.youtube.com/Hytale)
@@ -8,17 +8,17 @@
 * [Hytale - Facebook](https://www.facebook.com/HytaleGame)
 * 官方论坛？（暂未出来）
 
-## Wiki
+## Wiki:star2:
 * [英文Hytale Wiki](https://hytale.gamepedia.com/Hytale_Wiki)
 * [中文Hytale Wiki](https://hytale-zh.gamepedia.com/Hytale_Wiki)
 
-## 贴吧
+## 贴吧:star2:
 * [百度hytale吧](https://tieba.baidu.com/hytale)
 
 ## 论坛bbs
-* [hytalebbs.com](https://hytalebbs.com)
-* [hytalebbs.cn](https://hytalebbs.cn)
-* [hytalebbs.top](https://hytalebbs.top)
+* [hytalebbs.com:star2:](https://hytalebbs.com)
+* [hytalebbs.cn:star2:](https://hytalebbs.cn)
+* [hytalebbs.top:star2:](https://hytalebbs.top)
 * [hytale-forum.org（英文）](https://hytale-forum.org/)
 
 ## 网站
@@ -44,7 +44,7 @@
 * [Java-based client implementation of the Hytale Web API](https://github.com/HytaleMarket/hytale-web-api-client-java) - hytale官网api
 * [Hytale API - frontend](https://github.com/sdieunidou/hytale-api) - hytale官网api
 * [A server management software for Hytale](https://github.com/NurMarvin/Hycloud) - 服务器管理软件
-* [💯hytale游戏资源汇总💯](https://github.com/hytaleme/awesome-hytale)
+* [💯hytale游戏资源汇总💯:star2:](https://github.com/hytaleme/awesome-hytale)
 
 ## 其他资源
 * [Hytale Wiki（英文）](https://hytale.fandom.com/wiki/Hytale_Wiki) - 另一个英文wiki
