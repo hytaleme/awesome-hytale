@@ -19,6 +19,10 @@
 * [hytalebbs.com](https://hytalebbs.com)
 * [hytalebbs.cn](https://hytalebbs.cn)
 * [hytalebbs.top](https://hytalebbs.top)
+* [hytale-forum.org（英文）](https://hytale-forum.org/)
+
+## 网站
+* [hytale8.com](https://www.hytale8.com/) - Hytale中文下载站
 
 ## 专区
 * [mcbbs里的hytale专区](https://www.mcbbs.net/forum-hytale-1.html)
