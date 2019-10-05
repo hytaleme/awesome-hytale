@@ -41,10 +41,10 @@
 * [hytaleserverslist.eu（英文）](https://hytaleserverslist.eu/)
 
 ## Github项目
+* [💯hytale游戏资源汇总💯:star2:](https://github.com/hytaleme/awesome-hytale)
 * [Java-based client implementation of the Hytale Web API](https://github.com/HytaleMarket/hytale-web-api-client-java) - hytale官网api
 * [Hytale API - frontend](https://github.com/sdieunidou/hytale-api) - hytale官网api
 * [A server management software for Hytale](https://github.com/NurMarvin/Hycloud) - 服务器管理软件
-* [💯hytale游戏资源汇总💯:star2:](https://github.com/hytaleme/awesome-hytale)
 
 ## 其他资源
 * [Hytale Wiki（英文）](https://hytale.fandom.com/wiki/Hytale_Wiki) - 另一个英文wiki
