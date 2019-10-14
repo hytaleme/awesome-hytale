@@ -16,7 +16,7 @@
 * [百度hytale吧](https://tieba.baidu.com/hytale)
 
 ## 论坛bbs
-* [hytalebbs.com:star2:](https://hytalebbs.com)
+* [hytalebbs.com:star2:](https://hytalebbs.com) - hytale中文论坛
 * [hytale-forum.org（英文）](https://hytale-forum.org/)
 
 ## 网站
