@@ -17,8 +17,6 @@
 
 ## 论坛bbs
 * [hytalebbs.com:star2:](https://hytalebbs.com)
-* [hytalebbs.cn:star2:](https://hytalebbs.cn)
-* [hytalebbs.top:star2:](https://hytalebbs.top)
 * [hytale-forum.org（英文）](https://hytale-forum.org/)
 
 ## 网站
