@@ -1,4 +1,4 @@
-# 💯hytale游戏开发资源汇总💯
+# 💯hytale开发资源汇总💯
 ## 官方:star2:
 * [hytale.com](https://hytale.com/)  - 官网
 * [Hypixel Studios网站](https://hypixelstudios.com/) - 官方团队网站
