@@ -40,6 +40,7 @@ for 开发者
 * [thehytaleservers.org（英文）](https://thehytaleservers.org/)
 * [hytaleonlineservers.com（英文）](https://hytaleonlineservers.com/)
 * [hytaleserverslist.eu（英文）](https://hytaleserverslist.eu/)
+* [servers-hytale.com（英文）](https://servers-hytale.com/)
 
 ## Github项目
 * [💯hytale游戏资源汇总💯:star2:](https://github.com/hytaleme/awesome-hytale)
