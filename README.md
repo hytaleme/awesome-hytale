@@ -21,6 +21,7 @@ for 开发者
 
 ## 网站
 * [hytale8.com](https://www.hytale8.com/) - Hytale中文下载站
+* [hytale-nav.com](https://hytale-nav.com/) - Hytale导航
 
 ## 服务器列表
 * [hytale-servers.com（英文）](https://hytale-servers.com/)
