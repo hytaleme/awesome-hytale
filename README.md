@@ -42,6 +42,7 @@ for 开发者
 ## 其他资源
 * [hytale之我见（博客）](https://www.hytaleme.com/) - 专注hytale开服技术
 * [Hytale Wiki（英文）](https://hytale.fandom.com/wiki/Hytale_Wiki) - 另一个英文wiki
+* [Hytale Character Recipes（英文）](https://hytalecharacter.com/) - Hytale 角色配方、截图参考和手动复刻说明
 * [hygames.co（英文）](https://www.hygames.co/) - 模块，盒子？
 * [hytalehub.com（英文）](https://hytalehub.com/) - 论坛，俱乐部？
 * hytale QQ交流群：
