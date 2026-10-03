@@ -15,6 +15,7 @@ for 开发者
 * [英文Hytale Wiki](https://hytale.gamepedia.com/Hytale_Wiki)
 * [中文Hytale Wiki](https://hytale-zh.gamepedia.com/Hytale_Wiki)
 
+* [Hytale Wiki（英文，任务/物品/生物/建造数据与攻略）](https://hytale-wiki.fun/)
 ## 论坛bbs
 * [hytalebbs.com:star2:](https://hytalebbs.com) - hytale中文论坛
 * [hytale-forum.org（英文）](https://hytale-forum.org/)
